@@ -1,0 +1,45 @@
+Welcome to the Appointment Book
+-------------------------------
+Appointments: (F)ind, (A)dd, or (Q)uit: A
+Enter type [(D)aily, (M)onthly, (O)netime] and description: D Exercise
+Appointments: (F)ind, (A)dd, or (Q)uit: A
+Enter type [(D)aily, (M)onthly, (O)netime] and description: D Eat Breakfast
+Appointments: (F)ind, (A)dd, or (Q)uit: A
+Enter type [(D)aily, (M)onthly, (O)netime] and description: M Pay Bills
+Enter the day of the appointment: 1
+Appointments: (F)ind, (A)dd, or (Q)uit: A
+Enter type [(D)aily, (M)onthly, (O)netime] and description: M Pay Rent
+Enter the day of the appointment: 10
+Appointments: (F)ind, (A)dd, or (Q)uit: A
+Enter type [(D)aily, (M)onthly, (O)netime] and description: O Visit Antarctica
+Enter the date of the appointment (mm dd yyyy) :21 12 2021
+Appointments: (F)ind, (A)dd, or (Q)uit: A
+Enter type [(D)aily, (M)onthly, (O)netime] and description: O Visit Arctic
+Enter the date of the appointment (mm dd yyyy) :12 12 2031
+Appointments: (F)ind, (A)dd, or (Q)uit: F
+Enter the date (mm, dd, yyyy) to search: 09 17 2020
+Exercise
+Eat Breakfast
+Appointments: (F)ind, (A)dd, or (Q)uit: F
+Enter the date (mm, dd, yyyy) to search: 10 01 2020
+Exercise
+Eat Breakfast
+Pay Bills
+Appointments: (F)ind, (A)dd, or (Q)uit: F
+Enter the date (mm, dd, yyyy) to search: 10 10 2020
+Exercise
+Eat Breakfast
+Pay Rent
+Appointments: (F)ind, (A)dd, or (Q)uit: F
+Enter the date (mm, dd, yyyy) to search: 21 12 2021
+Exercise
+Eat Breakfast
+Visit Antarctica
+Appointments: (F)ind, (A)dd, or (Q)uit: F
+Enter the date (mm, dd, yyyy) to search: 12 12 2031
+Exercise
+Eat Breakfast
+Visit Arctic
+Appointments: (F)ind, (A)dd, or (Q)uit: Q
+Good bye.  Have a nice day!
+
