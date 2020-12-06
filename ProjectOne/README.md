@@ -11,7 +11,7 @@ Project includes superclass **Appointment** and subclasses **OneTime, Daily, and
 
 **occursOn(int year, int month, int day)**
 
-that checks whether the appointment occurs on that date. For example, for a monthly appointment, you must check whether the day of the month matches.
+that checks whether the appointment occurs on that date. For example, for a monthly appointment, the program checks whether the day of the month matches.
 You must write following classes:
 
 • Appointment.java
