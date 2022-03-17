@@ -1,4 +1,4 @@
-# Programming Project 1 – Inheritance and Runtime Polymorohism in Java
+# Programming Project 1 – Inheritance and Runtime Polymorphism in Java
 
 # Objective
 
